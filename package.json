@@ -1,0 +1,26 @@
+{
+  "name": "meko",
+  "version": "1.0.0",
+  "description": "MEKO is a language translator that converts English letters into Sinhala letters in Singlish style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasithaPeiris/meko.git"
+  },
+  "keywords": [
+    "singlish",
+    "converter",
+    "singlish",
+    "English",
+    "Sinhala"
+  ],
+  "author": "Hasitha Peiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HasithaPeiris/meko/issues"
+  },
+  "homepage": "https://github.com/HasithaPeiris/meko#readme"
+}
